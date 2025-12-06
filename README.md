@@ -11,26 +11,22 @@ This project demonstrates how computational methods, algorithms, and geospatial 
 
 The system includes:
 
-Weighted graph modelling
-
-Dijkstra & A* shortest path algorithms
-
-Multi-stop nearest-neighbour route optimisation
-
-Real Berlin map support (OSMnx)
-
-Edge-usage simulation (heatmap)
-
-Streamlit web application
-
-Visualisation + animation
-
-Runtime analysis (performance benchmarking)
+- Weighted graph modelling
+- Dijkstra & A* shortest path algorithms
+- Multi-stop nearest-neighbour route optimisation
+- Real Berlin map support (OSMnx)
+- Edge-usage simulation (heatmap)
+- Streamlit web application
+- Visualisation + animation
+- Runtime analysis (performance benchmarking)
 
 🔧 Tech Stack
-Category	Tools
-Languages	Python
-Algorithms	Dijkstra, A*, Nearest Neighbour
-Geospatial	NetworkX, OSMnx, Shapely
-Visualisation	Matplotlib, Streamlit
-Simulation	Random multi-route generation
+
+| Category      | Tools                           |
+| ------------- | ------------------------------- |
+| Languages     | Python                          |
+| Algorithms    | Dijkstra, A*, Nearest Neighbour |
+| Geospatial    | NetworkX, OSMnx, Shapely        |
+| Visualisation | Matplotlib, Streamlit           |
+| Simulation    | Random multi-route generation   |
+
